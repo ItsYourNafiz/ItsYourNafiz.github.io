@@ -7509,7 +7509,7 @@ button.bg-dark:focus {
   cursor: pointer;
 }
 
-.aboutElements, .qualificationElements, .skillElements, .portfolioTrigger, .contactElements{
+.aboutElements, .qualificationElements, .skillElements, .portfolioTrigger, .blogElements, .contactElements{
   padding: 80px 0px;
 }
 
@@ -7528,6 +7528,10 @@ button.bg-dark:focus {
 .qualificationElements p{
   color: #c5c4c4ee;
 }
+
+.blogElements h5{
+  color: #c5c4c4ee;
+ }
 
 .skillElements h6{
   color: turquoise;
