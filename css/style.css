@@ -7509,7 +7509,7 @@ button.bg-dark:focus {
   cursor: pointer;
 }
 
-.aboutElements, .qualificationElements, .skillElements, .portfolioTrigger, .blogElements, .contactElements{
+.aboutElements, .qualificationElements, .skillElements, .portfolioTrigger, .blogElements, .CertificationElements, .contactElements{
   padding: 80px 0px;
 }
 
@@ -7550,6 +7550,8 @@ button.bg-dark:focus {
   height: 100vh;
   width: 100%;
 }
+
+
 
 .shadow-sm {
   box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
