@@ -7509,7 +7509,7 @@ button.bg-dark:focus {
   cursor: pointer;
 }
 
-.aboutElements, .qualificationElements, .skillElements, .portfolioTrigger, .blogElements, .CertificationElements, .contactElements{
+.aboutElements, .qualificationElements, .skillElements, .portfolioTrigger, .blogElements, .contactElements{
   padding: 80px 0px;
 }
 
